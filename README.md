@@ -1,4 +1,12 @@
-# Advanced Authentication Service
+# 🔐 Auth-Guard-API - Enterprise Authentication System
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+> 🔐 Enterprise authentication system with JWT, OAuth (Google/GitHub), 2FA, and role-based access control. Features email verification, password reset, and session management. Built with Express & MongoDB. Production-ready security! 🛡️
 
 A comprehensive authentication and user management service built with Node.js, Express, TypeScript, and MongoDB. This project has been enhanced through three phases of development to include advanced security features, OAuth integration, and an admin dashboard.
 
@@ -278,3 +286,39 @@ The admin dashboard provides a comprehensive interface for managing users and mo
 - Security logs and monitoring
 - System health metrics
 - Role and permission management
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+```
+MIT License
+
+Copyright (c) 2024 Ajay Krishna
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+**Built with ❤️ by Ajay Krishna**
+
+*Securing applications, one authentication at a time.*
